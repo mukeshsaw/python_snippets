@@ -6,3 +6,13 @@ USER = USER_NAME_FROM_CLOUDMQTT
 PASSWORD = PASSWORD_NAME_FROM_CLOUDMQTT
 TOPIC = TOPIC_NAME
 MESSAGE = FIRST_MESSAGE
+
++++++++++++++++++++++++++++++++++++++
+
+CLOUDMQTT_URL = m15.cloudmqtt.com
+PORT =  12801 
+SSL_PORT =  22801 
+USER = iqbpqcgy
+PASSWORD = 8xpFZV3Mrq0f
+TOPIC = test
+MESSAGE = my message test1
